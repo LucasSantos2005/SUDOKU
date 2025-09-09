@@ -32,4 +32,13 @@ E por fim, adicionei uma tela de parabéns para quando o jogador completar o **S
 Não ligue para o número de erros — como estava com preguiça na hora, fiquei usando o double click do mouse passando por cada quadro até completar.  
 ![imagem](img/imagem%20sudoku%207.png)
 
+## 🎮 Como jogar
+
+Preencha a grade 9x9 com números de 1 a 9, sem repetir na mesma linha, coluna ou quadrante 3x3.  
+Use lógica e dedução para encontrar os números corretos.  
+O jogo termina quando todos os espaços forem preenchidos corretamente.
+Use o terceiro painel criado para selecionar o numero desejado, logo depois e so clicar com o botao esquerdo do mause para o numero
+aparecer no qudrado, caso seja o numero errado ele não vai aparecer e ira subir a contagem de erros.
+
+
 

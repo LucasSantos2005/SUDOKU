@@ -35,10 +35,13 @@ Não ligue para o número de erros — como estava com preguiça na hora, fiquei
 ## 🎮 Como jogar
 
 Preencha a grade 9x9 com números de 1 a 9, sem repetir na mesma linha, coluna ou quadrante 3x3.  
-Use lógica e dedução para encontrar os números corretos.  
+
+Use lógica e dedução para encontrar os números corretos.
+
 O jogo termina quando todos os espaços forem preenchidos corretamente.
-Use o terceiro painel criado para selecionar o numero desejado, logo depois e so clicar com o botao esquerdo do mause para o numero
-aparecer no qudrado, caso seja o numero errado ele não vai aparecer e ira subir a contagem de erros.
+
+Use o terceiro painel criado para selecionar o numero desejado, logo depois clique com o botao esquerdo do mause para o numero
+aparecer no quadrado, caso seja um numero errado ele não vai aparecer e ira subir a contagem de erros.
 
 
 
